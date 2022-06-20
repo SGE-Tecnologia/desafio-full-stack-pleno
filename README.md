@@ -26,7 +26,8 @@ Consideraremos como diferenciais os seguintes pontos:
 - Criação de testes unitários;
 - Criação de testes de integração.
 
+Crie o seu projeto como um repositório público do github e nos envie o link.
 
-> **Observações:**
-> - Sua aplicação web DEVE se comunicar com sua API;
-> - Você pode utilizar o banco de dados de sua preferência (relacional ou não relacional).
+**Observações:**
+- Sua aplicação web DEVE se comunicar com sua API;
+- Você pode utilizar o banco de dados de sua preferência (relacional ou não relacional).
