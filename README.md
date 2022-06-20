@@ -4,6 +4,8 @@ Seja bem-vindo! Este desafio foi projetado para avaliar a sua capacidade técnic
 ## Proposta
 Você deverá desenvolver uma aplicação de monitoramento de preços do mercado de energia. Para isso, separaremos a proposta desse desafio em duas etapas:
 
+Crie o seu projeto como um repositório público do github e nos envie o link.
+
 ### Back-end
 Desenvolva uma API utilizando Java com Spring Boot que deve conter as seguintes rotas:
 - `/register` - [POST] - esta rota deve cadastrar um usuário;
@@ -25,8 +27,6 @@ Consideraremos como diferenciais os seguintes pontos:
 - Deploy realizado em qualquer ambiente em nuvem;
 - Criação de testes unitários;
 - Criação de testes de integração.
-
-Crie o seu projeto como um repositório público do github e nos envie o link.
 
 **Observações:**
 - Sua aplicação web DEVE se comunicar com sua API;
